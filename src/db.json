@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Buy groceries",
+      "completed": true
+    },
+    {
+      "title": "Wash the car",
+      "completed": true,
+      "id": "2"
+    },
+    {
+      "title": "Pick up dry cleaning",
+      "completed": true,
+      "id": "7"
+    },
+    {
+      "title": "Cook dinner",
+      "completed": true,
+      "id": "8"
+    },
+    {
+      "id": "35cc",
+      "title": "Put the dishes in the dishwasher\n",
+      "completed": true
+    }
+  ]
+}
