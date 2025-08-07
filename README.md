@@ -38,7 +38,7 @@ Make sure `json-server` is running if you're using the mock `db.json` as backend
 npx json-server --watch db.json --port 3001
 ```
 
-## 🌐 Routes
+##  Routes
 
 - `/` – Main To Do List page
 - `/todo/:id` – Task detail view
